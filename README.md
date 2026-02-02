@@ -4,7 +4,7 @@
 
 ## 👋 ¡Hola, soy Simón Ramírez!
 
-Soy un **Ingeniero en Python | SQL | DataDevOps** apasionado por la ingeniería de datos, desarrollo, el machine learning y los pipelines en tiempo real.  
+Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrollo, el machine learning y los pipelines en tiempo real.  
 
 ### 🔭 Proyectos destacados  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Pipeline de machine learning para predecir el IMC en seres humanos.  
@@ -28,7 +28,7 @@ He realizado **66 contribuciones** en el último año, principalmente en reposit
 
 ## 👋 Hi, I'm Simón Ramírez!
 
-I'm a **Python | SQL | DataDevOps Engineer** passionate about data engineering, development, machine learning, and real-time pipelines.  
+I'm a **DataDevOps Engineer** passionate about data engineering, development, machine learning, and real-time pipelines.  
 
 ### 🔭 Featured Projects  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Machine learning pipeline to predict BMI in human beings.  
