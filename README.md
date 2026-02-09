@@ -13,10 +13,10 @@ Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrol
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Sistema de detección de fraudes en tiempo real.  
 
 ### 🛠️ Tecnologías  
-`Python` `SQL` `Jupyter Notebook` `ETL` `Data Warehousing` `Machine Learning` `DataDevOps`  
+`Python` `SQL` `Jupyter Notebook` `Snowflake` `ETL` `Data Warehousing` `Machine Learning`
 
 ### 📊 Contribuciones  
-He realizado **66 contribuciones** en el último año, principalmente en repositorios de análisis de datos, machine learning y pipelines en tiempo real, mejorando mi lado de desarrollador  
+He realizado **+70 contribuciones** en el último año, principalmente en repositorios de análisis de datos, machine learning y pipelines en tiempo real, mejorando mi lado de desarrollador  
 
 ### 📫 Conéctate conmigo  
 - GitHub: [simon-ramirez28](https://github.com/simon-ramirez28)  
@@ -37,10 +37,10 @@ I'm a **DataDevOps Engineer** passionate about data engineering, development, ma
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Real-time fraud detection system.  
 
 ### 🛠️ Technologies  
-`Python` `SQL` `ETL` `Data Warehousing` `Machine Learning` `Developing` 
+`Python` `SQL` `Jupyter Notebook` `Snowflake` `ETL` `Data Warehousing` `Machine Learning`
 
 ### 📊 Contributions  
-I've made **66 contributions** in the last year, mainly in data analysis, machine learning, and real-time pipeline repositories, improving my developer side  
+I've made **+70 contributions** in the last year, mainly in data analysis, machine learning, and real-time pipeline repositories, improving my developer side  
 
 ### 📫 Connect with me  
 - GitHub: [simon-ramirez28](https://github.com/simon-ramirez28)  
