@@ -12,8 +12,13 @@ Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrol
 - ⚽ [Premier League Title Race Analysis](https://github.com/simon-ramirez28/Premier-League-Title-Race-Analysis): Análisis en tiempo real de la lucha por el título en la Premier League.  
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Sistema de detección de fraudes en tiempo real.  
 
-### 🛠️ Tecnologías  
-`Python` `SQL` `Jupyter Notebook` `Snowflake` `ETL` `Data Warehousing` `Machine Learning`
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=simon-ramirez28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=simon-ramirez28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-ramirez28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📊 Contribuciones  
 He realizado **+70 contribuciones** en el último año, principalmente en repositorios de análisis de datos, machine learning y pipelines en tiempo real, mejorando mi lado de desarrollador  
@@ -36,11 +41,13 @@ I'm a **DataDevOps Engineer** passionate about data engineering, development, ma
 - ⚽ [Premier League Title Race Analysis](https://github.com/simon-ramirez28/Premier-League-Title-Race-Analysis): Real-time analysis of the Premier League title race.  
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Real-time fraud detection system.  
 
-### 🛠️ Technologies  
-`Python` `SQL` `Jupyter Notebook` `Snowflake` `ETL` `Data Warehousing` `Machine Learning`
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Contributions  
-I've made **+70 contributions** in the last year, mainly in data analysis, machine learning, and real-time pipeline repositories, improving my developer side  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=simon-ramirez28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=simon-ramirez28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-ramirez28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 Connect with me  
 - GitHub: [simon-ramirez28](https://github.com/simon-ramirez28)  
