@@ -4,7 +4,7 @@
 
 ## 👋 ¡Hola, soy Simón Ramírez!
 
-Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrollo, el machine learning y los pipelines en tiempo real, me enfoco en las áreas de Salud y Finanzas, aunque también indago en deportes.  
+Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrollo, el machine learning y los pipelines en tiempo real, me enfoco en las áreas de Salud y Finanzas, aunque también indago en deportes. Me fascina crear y aportar.
 
 ### 🔭 Proyectos destacados  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Pipeline de machine learning para predecir el IMC en seres humanos.  
@@ -33,7 +33,7 @@ He realizado **+70 contribuciones** en el último año, principalmente en reposi
 
 ## 👋 Hi, I'm Simón Ramírez!
 
-I'm a **DataDevOps Engineer** passionate about data engineering, development, machine learning, and real-time pipelines, my areas are Health and Finances, but sometimes I do sports focused projects too. 
+I'm a **DataDevOps Engineer** passionate about data engineering, development, machine learning, and real-time pipelines, my areas are Health and Finances, but sometimes I do sports focused projects too. I'm fascinated by creating and contributing.
 
 ### 🔭 Featured Projects  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Machine learning pipeline to predict BMI in human beings.  
