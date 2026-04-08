@@ -9,7 +9,8 @@ Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrol
 ### 🔭 Proyectos destacados  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Pipeline de machine learning para predecir el IMC en seres humanos.  
 - ⚙ [Kickstarter ETL Pipeline](https://github.com/simon-ramirez28/Kickstarter-ETL-Pipeline): Carga de proyectos de Kickstarter en un Data Warehouse.  
-- 🍅 [PomoTermn](https://github.com/simon-ramirez28/pomoterm): Un temporizador Pomodoro responsivo y estético diseñado específicamente para la terminal de Linux. 
+- 🍅 [PomoTermn](https://github.com/simon-ramirez28/pomoterm): Un temporizador Pomodoro responsivo y estético diseñado específicamente para la terminal de Linux.
+- ⚽🇩🇪 [Bundesliga Title Race](https://github.com/simon-ramirez28/BundesligaTitleRace): TUI para analizar las opciones de título de cada equipo en la Bundesliga.
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Sistema de detección de fraudes en tiempo real.  
 
 # 💻 Tech Stack:
@@ -38,7 +39,8 @@ I'm a **DataDevOps Engineer** passionate about data engineering, development, ma
 ### 🔭 Featured Projects  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Machine learning pipeline to predict BMI in human beings.  
 - ⚙ [Kickstarter ETL Pipeline](https://github.com/simon-ramirez28/Kickstarter-ETL-Pipeline): ETL pipeline to load Kickstarter projects into a Data Warehouse.  
-- 🍅 [PomoTermn](https://github.com/simon-ramirez28/pomoterm): A responsive and aesthetic Pomodoro timer designed specifically for the Linux terminal. 
+- 🍅 [PomoTermn](https://github.com/simon-ramirez28/pomoterm): A responsive and aesthetic Pomodoro timer designed specifically for the Linux terminal.
+- ⚽🇩🇪 [Bundesliga Title Race](https://github.com/simon-ramirez28/BundesligaTitleRace): TUI to analyze the title chances of each team in the Bundesliga.
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Real-time fraud detection system.  
 
 # 💻 Tech Stack:
