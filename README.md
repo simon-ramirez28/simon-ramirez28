@@ -9,7 +9,7 @@ Soy un **Ingeniero DataDevOps** apasionado por la ingeniería de datos, desarrol
 ### 🔭 Proyectos destacados  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Pipeline de machine learning para predecir el IMC en seres humanos.  
 - ⚙ [Kickstarter ETL Pipeline](https://github.com/simon-ramirez28/Kickstarter-ETL-Pipeline): Carga de proyectos de Kickstarter en un Data Warehouse.  
-- ⚽ [Premier League Title Race Analysis](https://github.com/simon-ramirez28/Premier-League-Title-Race-Analysis): Análisis en tiempo real de la lucha por el título en la Premier League.  
+- 🍅 [PomoTermn](https://github.com/simon-ramirez28/pomoterm): Un temporizador Pomodoro responsivo y estético diseñado específicamente para la terminal de Linux. 
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Sistema de detección de fraudes en tiempo real.  
 
 # 💻 Tech Stack:
@@ -38,7 +38,7 @@ I'm a **DataDevOps Engineer** passionate about data engineering, development, ma
 ### 🔭 Featured Projects  
 - 🙎 [BMI Predictor](https://github.com/simon-ramirez28/bmi-predictor): Machine learning pipeline to predict BMI in human beings.  
 - ⚙ [Kickstarter ETL Pipeline](https://github.com/simon-ramirez28/Kickstarter-ETL-Pipeline): ETL pipeline to load Kickstarter projects into a Data Warehouse.  
-- ⚽ [Premier League Title Race Analysis](https://github.com/simon-ramirez28/Premier-League-Title-Race-Analysis): Real-time analysis of the Premier League title race.  
+- 🍅 [PomoTermn](https://github.com/simon-ramirez28/pomoterm): A responsive and aesthetic Pomodoro timer designed specifically for the Linux terminal. 
 - 💳 [Real-Time Fraud Detection Pipeline](https://github.com/simon-ramirez28/realtime-fraud-detection-pipeline): Real-time fraud detection system.  
 
 # 💻 Tech Stack:
